@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "files": ["framework/fw.php"]
+    },
+    "require": {
+        "php": "^7.4"
+    }
+}
