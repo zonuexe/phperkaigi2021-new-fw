@@ -3,6 +3,7 @@
         "files": ["framework/fw.php"]
     },
     "require": {
-        "php": "^7.4"
+        "php": "^7.4",
+        "psy/psysh": "^0.10.7"
     }
 }
